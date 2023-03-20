@@ -1,6 +1,4 @@
-<a href="https://concrete.com.br/"><img src=".github/concrete_symbol.png" width="180px" align="right" /></a>
-
-# Desafio Java Concrete
+# Desafio Java
 
 Desafio técnico para evaluar el conocimiento de los aspirantes a unirse al equipo de **Backend**.
 
@@ -27,8 +25,8 @@ Para las próximas iteraciones, el equipo va a trabajar en la **Pantalla de Iní
 
 ### APIs
 Necesitarás consumir los siguientes servicios:
-- **Categorias**: [https://cs-hsa-api-categories.herokuapp.com/docs](https://cs-hsa-api-categories.herokuapp.com/docs)
-- **Cupones**: [https://cs-hsa-api-coupons.herokuapp.com/docs](https://cs-hsa-api-coupons.herokuapp.com/docs)
+- **Categorias**: [https://cs-hsa-api-categories-rest.herokuapp.com/docs](https://cs-hsa-api-categories.herokuapp.com/docs)
+- **Cupones**: [https://cs-hsa-api-coupons-rest.herokuapp.com/docs](https://cs-hsa-api-coupons.herokuapp.com/docs)
 
 ### Features
 El equipo Mobile necesita construir una pantalla de inicio que debe mostrar:
